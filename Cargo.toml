@@ -1,0 +1,4 @@
+[workspace]
+members = [
+    "garlic_netstring",
+]
